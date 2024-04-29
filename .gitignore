@@ -1,0 +1,4 @@
+build/
+tester/__pycache__
+AyuPon.egg-info/
+AyuPon/*.pyd
